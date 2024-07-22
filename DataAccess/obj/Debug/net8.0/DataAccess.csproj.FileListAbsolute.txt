@@ -1,0 +1,14 @@
+D:\Summer24\PRN_Code_V2\AssigmentPRN\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\Summer24\PRN_Code_V2\AssigmentPRN\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\Summer24\PRN_Code_V2\AssigmentPRN\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\Summer24\PRN_Code_V2\AssigmentPRN\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\Summer24\PRN_Code_V2\AssigmentPRN\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\Summer24\PRN_Code_V2\AssigmentPRN\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer24\PRN_Code_V2\AssigmentPRN\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\Summer24\PRN_Code_V2\AssigmentPRN\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\Summer24\PRN_Code_V2\AssigmentPRN\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Summer24\PRN_Code_V2\AssigmentPRN\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\Summer24\PRN_Code_V2\AssigmentPRN\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\Summer24\PRN_Code_V2\AssigmentPRN\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\Summer24\PRN_Code_V2\AssigmentPRN\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+D:\Summer24\PRN_Code_V2\AssigmentPRN\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
